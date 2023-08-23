@@ -110,28 +110,7 @@
       "city": "ALwosta",
       "image": "https://images.pexels.com/photos/6283963/pexels-photo-6283963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
-      "id": 11,
-      "title": "Style Net-Zero Family Home",
-      "description": "Within a gated community, you will find our Net-Zero properties. This community comes with amenities and offers fifty (50) brand new homes, each set on a one acre plot, leaving plenty of room for expansion.",
-      "bathroom": 1,
-      "bedroom": 3,
-      "category": "studio",
-      "price": 350,
-      "city": "Khanyunis",
-      "image": "https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-      "id": 12,
-      "title": "Steamboat Inn",
-      "description": "Steamboat Inn is an 18 key, full-service, upper midscale, independent resort property. The property sits on US Forest Service (USFS) land in the Umpqua National Forest and operates under a USFS special use permit. The hotel has excellent highway visibility and access. ",
-      "bathroom": 3,
-      "bedroom": 2,
-      "category": "apartment",
-      "price": 300,
-      "city": "Gaza",
-      "image": "https://images.pexels.com/photos/534151/pexels-photo-534151.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    }
+    
   ],
 
   "users": [
