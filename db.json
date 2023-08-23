@@ -126,28 +126,16 @@
 
 
   "users": [
-    { "id": 1, "username": "GadaAhmed ", "email": "ghada1093gmail.com" ,"password": "ghada123", "mobile": "0597573805","image": "https://drive.google.com/drive/folders/1ynAtbL3LSciVwm7hgAbMnJUXfgIlrgNe"}
+    { "id": 1,
+      "username": "GadaAhmed ",
+      "email": "ghada1093gmail.com" 
+      ,"password": "ghada123",
+      "mobile": "0597573805",
+      "image": "https://drive.google.com/drive/folders/1ynAtbL3LSciVwm7hgAbMnJUXfgIlrgNe"
+    }
   ],
-
-
-
-   "locations ": [
-    { "city": "Gaza" },
-  { "city": "Khanyunis" },
-  { "city": "ALwosta" },
-  { "city": "Rafah" },
-  { "city": "North" }
-  ],
-
-  
-     "categories  ": [
-    { "category": "apartment" },
-  { "category": "classic" },
-  { "category": "studio" },
-  { "category": "roof" }
-  ],
-       "favorites": [
-  ],
-  "newusers": [
-  ]
+   "favorites": [],
+  "newusers": []
 }
+
+
